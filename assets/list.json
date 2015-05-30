@@ -1,0 +1,119 @@
+{
+    "list": [
+        {
+            "name": "Ablutophobia",
+            "src": "img/a/ablutophobia.jpg",
+            "def": "fear of bathing, washing, or cleaning"
+        },
+        {
+            "name": "Acousticophobia",
+            "src": "img/a/acousticophobia.jpg",
+            "def": "fear of noise – a branch of phonophobia"
+        },
+        {
+            "name": "Acrophobia",
+            "src": "img/a/acrophobia.jpg",
+            "def": "fear of heights"
+        },
+        {
+            "name": "Agoraphobia",
+            "src": "img/a/agoraphobia.jpg",
+            "def": "fear of open places"
+        },
+        {
+            "name": "Agraphobia",
+            "src": "img/a/agraphobia.jpg",
+            "def": "fear of sexual abuse"
+        },
+        {
+            "name": "Agrizoophobia",
+            "src": "img/a/agrizoophobia.jpg",
+            "def": "fear of wild animals, a branch of zoophobia"
+        },
+        {
+            "name": "Agyrophobia",
+            "src": "img/a/agyrophobia.jpg",
+            "def": "fear of crossing the street"
+        },
+        {
+            "name": "Aichmophobia",
+            "src": "img/a/aichmophobia.jpg",
+            "def": "fear of sharp or pointed objects"
+        },
+        {
+            "name": "Ailurophobia",
+            "src": "img/a/ailurophobia.jpg",
+            "def": "fear of cats"
+        },
+        {
+            "name": "Algophobia",
+            "src": "img/a/algophobia.jpg",
+            "def": "fear of pain"
+        },
+        {
+            "name": "Amaxophobia",
+            "src": "img/a/amaxophobia.jpg",
+            "def": "fear of riding in a car"
+        },
+        {
+            "name": "Amychophobia",
+            "src": "img/a/amychophobia.jpg",
+            "def": "fear of being scratched"
+        },
+        {
+            "name": "Anthophobia",
+            "src": "img/a/anthophobia.jpg",
+            "def": "fear of flowers"
+        },
+        {
+            "name": "Anthropophobia",
+            "src": "img/a/anthropophobia.jpg",
+            "def": "fear of people or the company of people, a form of social phobia"
+        },
+        {
+            "name": "Antlophobia",
+            "src": "img/a/antlophobia.jpg",
+            "def": "fear of floods"
+        },
+        {
+            "name": "Aquaphobia",
+            "src": "img/a/aquaphobia.jpg",
+            "def": "fear of water"
+        },
+        {
+            "name": "Arachnophobia",
+            "src": "img/a/arachnophobia.jpg",
+            "def": "fear of spiders"
+        },
+        {
+            "name": "Astraphobia",
+            "src": "img/a/astraphobia.jpg",
+            "def": "fear of thunder and lightning"
+        },
+        {
+            "name": "Atelophobia",
+            "src": "img/a/atelophobia.jpg",
+            "def": "fear of not being good enough or imperfection"
+        },
+        {
+            "name": "Atychiphobia",
+            "src": "img/a/atychiphobia.jpg",
+            "def": "fear of failure"
+        },
+        {
+            "name": "Automatonophobia",
+            "src": "img/a/automatonophobia.jpg",
+            "def": "fear of anything that falsely represents a sentient being"
+        },
+        {
+            "name": "Autophobia",
+            "src": "img/a/autophobia.jpg",
+            "def": "fear of isolation"
+        },
+        {
+            "name": "Aviophobia",
+            "src": "img/a/aviophobia.jpg",
+            "def": "fear of flyin"
+        }
+    ]
+}
